@@ -1,0 +1,53 @@
+model: \Virhi\DomainBundle\Entity\Post
+persistence: orm
+fixtures:
+  post_test_1:
+    titre: A l'affiche
+    post: Causa decet duis eu exputo inhibeo letalis lucidus utrum voco. Aliquip consequat diam loquor similis suscipit valetudo velit. Abigo adipiscing causa dolore eu gravis humo odio refero virtus.
+    description: Appellatio caecus commodo consequat defui diam imputo quidem refero. Abdo bene dignissim praesent torqueo tum. Comis iusto neque valetudo vereor. Abbas quidne ratis singularis. Amet odio tamen. Commodo in natu quae tation ut. Abigo dolor laoreet nulla quae. Accumsan camur ibidem interdico.
+    sousTitre: Adipiscing Amet Causa Facilisi Tincidunt
+    tags:
+      - tag_php
+      - tag_symfony
+
+  post_test_2:
+    titre: silence sa tourne
+    post: Causa decet duis eu exputo inhibeo letalis lucidus utrum voco. Aliquip consequat diam loquor similis suscipit valetudo velit. Abigo adipiscing causa dolore eu gravis humo odio refero virtus.
+    description: Appellatio caecus commodo consequat defui diam imputo quidem refero. Abdo bene dignissim praesent torqueo tum. Comis iusto neque valetudo vereor. Abbas quidne ratis singularis. Amet odio tamen. Commodo in natu quae tation ut. Abigo dolor laoreet nulla quae. Accumsan camur ibidem interdico.
+    sousTitre: Adipiscing Amet Causa Facilisi Tincidunt
+    tags:
+      - tag_php
+      - tag_symfony
+
+  post_test_3:
+    titre: virhimusic online
+    post: Causa decet duis eu exputo inhibeo letalis lucidus utrum voco. Aliquip consequat diam loquor similis suscipit valetudo velit. Abigo adipiscing causa dolore eu gravis humo odio refero virtus.
+    description: Appellatio caecus commodo consequat defui diam imputo quidem refero. Abdo bene dignissim praesent torqueo tum. Comis iusto neque valetudo vereor. Abbas quidne ratis singularis. Amet odio tamen. Commodo in natu quae tation ut. Abigo dolor laoreet nulla quae. Accumsan camur ibidem interdico.
+    sousTitre: Adipiscing Amet Causa Facilisi Tincidunt
+    tags:
+      - tag_php
+      - tag_symfony
+
+  post_test_4:
+    titre: Symfony Community Bundles Survey
+    post: Causa decet duis eu exputo inhibeo letalis lucidus utrum voco. Aliquip consequat diam loquor similis suscipit valetudo velit. Abigo adipiscing causa dolore eu gravis humo odio refero virtus.
+    description: Appellatio caecus commodo consequat defui diam imputo quidem refero. Abdo bene dignissim praesent torqueo tum. Comis iusto neque valetudo vereor. Abbas quidne ratis singularis. Amet odio tamen. Commodo in natu quae tation ut. Abigo dolor laoreet nulla quae. Accumsan camur ibidem interdico.
+    sousTitre: Adipiscing Amet Causa Facilisi Tincidunt
+    tags:
+      - tag_php
+
+  post_test_5:
+    titre: New in Symfony 2.6: Added support for XLIFF notes
+    post: Causa decet duis eu exputo inhibeo letalis lucidus utrum voco. Aliquip consequat diam loquor similis suscipit valetudo velit. Abigo adipiscing causa dolore eu gravis humo odio refero virtus.
+    description: Appellatio caecus commodo consequat defui diam imputo quidem refero. Abdo bene dignissim praesent torqueo tum. Comis iusto neque valetudo vereor. Abbas quidne ratis singularis. Amet odio tamen. Commodo in natu quae tation ut. Abigo dolor laoreet nulla quae. Accumsan camur ibidem interdico.
+    sousTitre: Adipiscing Amet Causa Facilisi Tincidunt
+    tags:
+      - tag_symfony
+
+  post_test_6:
+    titre: Symfony 2.5.1 released
+    post: Causa decet duis eu exputo inhibeo letalis lucidus utrum voco. Aliquip consequat diam loquor similis suscipit valetudo velit. Abigo adipiscing causa dolore eu gravis humo odio refero virtus.
+    description: Appellatio caecus commodo consequat defui diam imputo quidem refero. Abdo bene dignissim praesent torqueo tum. Comis iusto neque valetudo vereor. Abbas quidne ratis singularis. Amet odio tamen. Commodo in natu quae tation ut. Abigo dolor laoreet nulla quae. Accumsan camur ibidem interdico.
+    sousTitre: Adipiscing Amet Causa Facilisi Tincidunt
+    tags:
+      - tag_symfony

@@ -1,0 +1,3 @@
+virhi_domain_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: VirhiDomainBundle:Default:index }

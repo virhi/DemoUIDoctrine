@@ -1,0 +1,8 @@
+model: \Virhi\DomainBundle\Entity\Tag
+persistence: orm
+fixtures:
+  tag_php:
+    titre: PHP
+    description: PHP le tag de tout la mort qui tue
+  tag_symfony:
+    titre: Symfony

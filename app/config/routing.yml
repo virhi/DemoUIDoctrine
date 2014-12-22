@@ -1,0 +1,12 @@
+virhi_domain:
+    resource: "@VirhiDomainBundle/Resources/config/routing.yml"
+    prefix:   /
+
+virhi_ui_rest_api_doctrine:
+    resource: "@VirhiUiRestApiDoctrineBundle/Resources/config/routing.yml"
+    prefix:   /
+
+
+virhi_rest_api_doctrine:
+    resource: "@VirhiRestApiDoctrineBundle/Resources/config/routing.yml"
+    prefix:   /
