@@ -33,5 +33,5 @@ assetic:
 khepin_yaml_fixtures:
     directory: Resources/Fixtures
     resources:
-        - VirhiDomainBundle/tag
-        - VirhiDomainBundle/post
+        - VirhiDomainBundle/Tag
+        - VirhiDomainBundle/Post
