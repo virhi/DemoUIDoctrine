@@ -16,11 +16,11 @@ class AppKernel extends Kernel
             new Symfony\Bundle\AsseticBundle\AsseticBundle(),
             new Doctrine\Bundle\DoctrineBundle\DoctrineBundle(),
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
-            new Virhi\UiRestApiDoctrineBundle\VirhiUiRestApiDoctrineBundle(),
+            new Misd\GuzzleBundle\MisdGuzzleBundle(),
+            new Virhi\AdminBundle\VirhiAdminBundle(),
             new Virhi\DomainBundle\VirhiDomainBundle(),
             new Virhi\RestApiDoctrineBundle\VirhiRestApiDoctrineBundle(),
-            new Virhi\AdminBundle\VirhiAdminBundle(),
-            new Misd\GuzzleBundle\MisdGuzzleBundle(),
+            new Virhi\UiRestApiDoctrineBundle\VirhiUiRestApiDoctrineBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {
