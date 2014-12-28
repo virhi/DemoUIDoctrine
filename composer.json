@@ -89,6 +89,10 @@
         {
             "type": "git",
             "url": "https://github.com/virhi/adminBundle.git"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/virhi/PaginationBundle.git"
         }
     ]
 }
