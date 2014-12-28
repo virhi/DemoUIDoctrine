@@ -24,6 +24,7 @@
         "virhi/adminBundle": "@dev",
         "virhi/component": "@dev",
         "misd/guzzle-bundle": "~1.0",
+        "virhi/paginationbundle": "@dev",
         "virhi/RestHalBundle": "@dev"
     },
     "require-dev": {
