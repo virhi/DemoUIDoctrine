@@ -77,6 +77,9 @@ swiftmailer:
 
 virhi_rest_api_doctrine:
     manager: VirhiDomainBundle
+    expose_entities:
+        tag: { entity_name: Virhi\DomainBundle\Entity\Tag, edit_mode: true, delete_mode: true }
+        post: { entity_name: Virhi\DomainBundle\Entity\Post, edit_mode: true, create_mode: true }
 
 virhi_ui_rest_api_doctrine:
     api_url: http://local.sf.dev/

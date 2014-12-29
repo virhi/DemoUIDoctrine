@@ -35,3 +35,4 @@ khepin_yaml_fixtures:
     resources:
         - VirhiDomainBundle/Tag
         - VirhiDomainBundle/Post
+        - VirhiDomainBundle/Data

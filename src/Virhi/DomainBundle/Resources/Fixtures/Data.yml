@@ -1,0 +1,5 @@
+model: \Virhi\DomainBundle\Entity\Data
+persistence: orm
+fixtures:
+  data_dummy:
+    titre: Data pour tester
