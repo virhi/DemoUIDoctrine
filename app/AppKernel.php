@@ -19,8 +19,8 @@ class AppKernel extends Kernel
             new Misd\GuzzleBundle\MisdGuzzleBundle(),
             new Virhi\AdminBundle\VirhiAdminBundle(),
             new Virhi\DomainBundle\VirhiDomainBundle(),
-            new Virhi\RestApiDoctrineBundle\VirhiRestApiDoctrineBundle(),
-            new Virhi\UiRestApiDoctrineBundle\VirhiUiRestApiDoctrineBundle(),
+            new Virhi\LazyRestApiBundle\VirhiLazyRestApiBundle(),
+            new Virhi\LazyRestApiUiBundle\VirhiLazyRestApiUiBundle()
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {

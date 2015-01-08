@@ -4,58 +4,20 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "397db81f6536c302f7b2d822191a40f7",
+    "hash": "7336ab32544cc9b50f5cf4cc0e4321eb",
     "packages": [
-        {
-            "name": "almasaeed2010/adminlte",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/almasaeed2010/AdminLTE.git",
-                "reference": "2a44a8f30b3c9f60ff430854b0c55a18a5d8cfb7"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/almasaeed2010/AdminLTE/zipball/2a44a8f30b3c9f60ff430854b0c55a18a5d8cfb7",
-                "reference": "2a44a8f30b3c9f60ff430854b0c55a18a5d8cfb7",
-                "shasum": ""
-            },
-            "type": "library",
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Abdullah Almsaeed",
-                    "email": "support@almsaeedstudio.com"
-                }
-            ],
-            "description": "AdminLTE - admin control panel and dashboard that's based on Bootstrap 3",
-            "homepage": "http://almsaeedstudio.com/",
-            "keywords": [
-                "JS",
-                "back-end",
-                "css",
-                "less",
-                "responsive",
-                "template",
-                "web"
-            ],
-            "time": "2014-12-17 19:10:44"
-        },
         {
             "name": "doctrine/annotations",
             "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/annotations.git",
-                "reference": "eeda578cbe24a170331a1cfdf78be723412df7a4"
+                "reference": "b5202eb9e83f8db52e0e58867e0a46e63be8332e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/annotations/zipball/eeda578cbe24a170331a1cfdf78be723412df7a4",
-                "reference": "eeda578cbe24a170331a1cfdf78be723412df7a4",
+                "url": "https://api.github.com/repos/doctrine/annotations/zipball/b5202eb9e83f8db52e0e58867e0a46e63be8332e",
+                "reference": "b5202eb9e83f8db52e0e58867e0a46e63be8332e",
                 "shasum": ""
             },
             "require": {
@@ -110,7 +72,7 @@
                 "docblock",
                 "parser"
             ],
-            "time": "2014-12-20 20:49:38"
+            "time": "2014-12-23 22:40:37"
         },
         {
             "name": "doctrine/cache",
@@ -254,12 +216,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/common.git",
-                "reference": "559a805125524b0bb6742638784c2979a5c5e607"
+                "reference": "c819359fc0babd36620e4b48d2eb0c6dacbc48a2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/common/zipball/559a805125524b0bb6742638784c2979a5c5e607",
-                "reference": "559a805125524b0bb6742638784c2979a5c5e607",
+                "url": "https://api.github.com/repos/doctrine/common/zipball/c819359fc0babd36620e4b48d2eb0c6dacbc48a2",
+                "reference": "c819359fc0babd36620e4b48d2eb0c6dacbc48a2",
                 "shasum": ""
             },
             "require": {
@@ -319,7 +281,7 @@
                 "persistence",
                 "spl"
             ],
-            "time": "2014-07-27 17:39:50"
+            "time": "2015-01-01 17:37:36"
         },
         {
             "name": "doctrine/dbal",
@@ -327,12 +289,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/dbal.git",
-                "reference": "2423cce3bcfba386a1f4a20c6d98f47ea25e0931"
+                "reference": "6a20c28e88f9cef15fae491481a527550585ed7a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/dbal/zipball/2423cce3bcfba386a1f4a20c6d98f47ea25e0931",
-                "reference": "2423cce3bcfba386a1f4a20c6d98f47ea25e0931",
+                "url": "https://api.github.com/repos/doctrine/dbal/zipball/6a20c28e88f9cef15fae491481a527550585ed7a",
+                "reference": "6a20c28e88f9cef15fae491481a527550585ed7a",
                 "shasum": ""
             },
             "require": {
@@ -382,7 +344,7 @@
                 "persistence",
                 "queryobject"
             ],
-            "time": "2014-10-16 11:57:27"
+            "time": "2015-01-03 22:41:47"
         },
         {
             "name": "doctrine/doctrine-bundle",
@@ -462,12 +424,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/inflector.git",
-                "reference": "0bcb2e79d8571787f18b7eb036ed3d004908e604"
+                "reference": "e5eaf8c7ded0877195b5d2848491e17b1c0a6c4d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/inflector/zipball/0bcb2e79d8571787f18b7eb036ed3d004908e604",
-                "reference": "0bcb2e79d8571787f18b7eb036ed3d004908e604",
+                "url": "https://api.github.com/repos/doctrine/inflector/zipball/e5eaf8c7ded0877195b5d2848491e17b1c0a6c4d",
+                "reference": "e5eaf8c7ded0877195b5d2848491e17b1c0a6c4d",
                 "shasum": ""
             },
             "require": {
@@ -521,7 +483,7 @@
                 "singularize",
                 "string"
             ],
-            "time": "2014-12-20 21:24:13"
+            "time": "2015-01-01 18:34:57"
         },
         {
             "name": "doctrine/lexer",
@@ -923,12 +885,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/misd-service-development/guzzle-bundle.git",
-                "reference": "555c105ef4ac66597a029fe634dee0fe4f9cb084"
+                "reference": "0d71fafbbe83ea94fa5d5813fa236bac68000538"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/misd-service-development/guzzle-bundle/zipball/555c105ef4ac66597a029fe634dee0fe4f9cb084",
-                "reference": "555c105ef4ac66597a029fe634dee0fe4f9cb084",
+                "url": "https://api.github.com/repos/misd-service-development/guzzle-bundle/zipball/0d71fafbbe83ea94fa5d5813fa236bac68000538",
+                "reference": "0d71fafbbe83ea94fa5d5813fa236bac68000538",
                 "shasum": ""
             },
             "require": {
@@ -987,7 +949,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2014-12-01 08:29:51"
+            "time": "2015-01-02 08:33:43"
         },
         {
             "name": "monolog/monolog",
@@ -995,12 +957,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog.git",
-                "reference": "5bee6fe56c2e8d1fc22b5188d49b6a2500df065f"
+                "reference": "b18a6eff04b15184375a6875ef2aa54bc5a7c9f2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/5bee6fe56c2e8d1fc22b5188d49b6a2500df065f",
-                "reference": "5bee6fe56c2e8d1fc22b5188d49b6a2500df065f",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/b18a6eff04b15184375a6875ef2aa54bc5a7c9f2",
+                "reference": "b18a6eff04b15184375a6875ef2aa54bc5a7c9f2",
                 "shasum": ""
             },
             "require": {
@@ -1014,7 +976,7 @@
                 "aws/aws-sdk-php": "~2.4, >2.4.8",
                 "doctrine/couchdb": "~1.0@dev",
                 "graylog2/gelf-php": "~1.0",
-                "phpunit/phpunit": "~3.7.0",
+                "phpunit/phpunit": "~4.0",
                 "raven/raven": "~0.5",
                 "ruflin/elastica": "0.90.*",
                 "videlalvaro/php-amqplib": "~2.4"
@@ -1033,7 +995,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.11.x-dev"
+                    "dev-master": "1.12.x-dev"
                 }
             },
             "autoload": {
@@ -1059,7 +1021,7 @@
                 "logging",
                 "psr-3"
             ],
-            "time": "2014-12-17 10:47:08"
+            "time": "2015-01-07 15:29:03"
         },
         {
             "name": "nocarrier/hal",
@@ -1159,12 +1121,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sensiolabs/SensioDistributionBundle.git",
-                "reference": "ddcfeaeb504ece5de546dbefd5c527eed7453048"
+                "reference": "9a72f821957141ee3d9703da3fa8266d59ef4b1c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sensiolabs/SensioDistributionBundle/zipball/ddcfeaeb504ece5de546dbefd5c527eed7453048",
-                "reference": "ddcfeaeb504ece5de546dbefd5c527eed7453048",
+                "url": "https://api.github.com/repos/sensiolabs/SensioDistributionBundle/zipball/9a72f821957141ee3d9703da3fa8266d59ef4b1c",
+                "reference": "9a72f821957141ee3d9703da3fa8266d59ef4b1c",
                 "shasum": ""
             },
             "require": {
@@ -1196,7 +1158,7 @@
                 "configuration",
                 "distribution"
             ],
-            "time": "2014-12-03 13:50:45"
+            "time": "2015-01-07 07:11:03"
         },
         {
             "name": "sensio/framework-extra-bundle",
@@ -1526,19 +1488,19 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/symfony.git",
-                "reference": "cbbd0624fe2cfb6805fd6aa6a50e8e6a999476a3"
+                "reference": "1b39930dad85970079916bfaa8f960b9f90839a7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/symfony/zipball/cbbd0624fe2cfb6805fd6aa6a50e8e6a999476a3",
-                "reference": "cbbd0624fe2cfb6805fd6aa6a50e8e6a999476a3",
+                "url": "https://api.github.com/repos/symfony/symfony/zipball/1b39930dad85970079916bfaa8f960b9f90839a7",
+                "reference": "1b39930dad85970079916bfaa8f960b9f90839a7",
                 "shasum": ""
             },
             "require": {
-                "doctrine/common": "~2.2",
+                "doctrine/common": "~2.3",
                 "php": ">=5.3.3",
                 "psr/log": "~1.0",
-                "twig/twig": "~1.12"
+                "twig/twig": "~1.12,>=1.12.3"
             },
             "replace": {
                 "symfony/browser-kit": "self.version",
@@ -1625,7 +1587,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2014-12-22 15:58:14"
+            "time": "2015-01-07 11:12:24"
         },
         {
             "name": "twig/extensions",
@@ -1682,12 +1644,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "a1b847b3a3c835a495329b0ada8f3ec68a90fc9d"
+                "reference": "d375c805fb830f75aa3b8d4868cc2d9f99a4c2fa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/a1b847b3a3c835a495329b0ada8f3ec68a90fc9d",
-                "reference": "a1b847b3a3c835a495329b0ada8f3ec68a90fc9d",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/d375c805fb830f75aa3b8d4868cc2d9f99a4c2fa",
+                "reference": "d375c805fb830f75aa3b8d4868cc2d9f99a4c2fa",
                 "shasum": ""
             },
             "require": {
@@ -1731,18 +1693,21 @@
             "keywords": [
                 "templating"
             ],
-            "time": "2014-12-05 13:47:49"
+            "time": "2014-12-25 20:52:25"
         },
         {
-            "name": "virhi/adminBundle",
-            "version": "dev-master",
+            "name": "virhi/admin-bundle",
+            "version": "v0.1.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/virhi/adminBundle.git",
-                "reference": "47dab054487df5cf7f5bc62273dd0ee24e0e60d5"
+                "reference": "b323401ab9e25eb6181b6fdbabde9d855d944a53"
             },
-            "require": {
-                "almasaeed2010/adminlte": "@dev"
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/virhi/adminBundle/zipball/b323401ab9e25eb6181b6fdbabde9d855d944a53",
+                "reference": "b323401ab9e25eb6181b6fdbabde9d855d944a53",
+                "shasum": ""
             },
             "type": "symfony-bundle",
             "autoload": {
@@ -1750,6 +1715,7 @@
                     "Virhi\\AdminBundle\\": "src/Virhi/AdminBundle/"
                 }
             },
+            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -1761,7 +1727,7 @@
                 }
             ],
             "description": "admin bundle",
-            "time": "2014-12-20 02:21:55"
+            "time": "2015-01-08 18:39:25"
         },
         {
             "name": "virhi/component",
@@ -1769,7 +1735,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/virhi/Component.git",
-                "reference": "18185ab76e5572cbd04f1af421a9400b4f20c7d0"
+                "reference": "13a709fad9641c6c0413ba126d73732dbf1cb02d"
             },
             "require": {
                 "doctrine/orm": "~2.2,>=2.2.3",
@@ -1800,19 +1766,20 @@
                 }
             ],
             "description": "group of sf component",
-            "time": "2014-12-22 20:19:19"
+            "time": "2014-12-29 12:52:47"
         },
         {
-            "name": "virhi/rest-api_doctrine-bundle",
+            "name": "virhi/lazy-rest-api-bundle",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/virhi/RestApiDoctrineBundle.git",
-                "reference": "bbe7029d3b02dacbeba3caaa5c4b281bf59bbc90"
+                "url": "https://github.com/virhi/LazyRestApiBundle.git",
+                "reference": "e63f4e1c875d3c5927828dbff231f8e83c88d89a"
             },
             "require": {
                 "doctrine/orm": "~2.2,>=2.2.3",
                 "virhi/component": "@dev",
+                "virhi/paginationbundle": "@dev",
                 "virhi/resthalbundle": "@dev"
             },
             "require-dev": {
@@ -1821,12 +1788,12 @@
             "type": "symfony-bundle",
             "autoload": {
                 "psr-4": {
-                    "Virhi\\RestApiDoctrineBundle\\": "src/Virhi/RestApiDoctrineBundle/"
+                    "Virhi\\LazyRestApiBundle\\": "src/Virhi/LazyRestApiBundle/"
                 }
             },
             "autoload-dev": {
                 "psr-4": {
-                    "Virhi\\RestApiDoctrineBundle\\Tests\\": "Tests/"
+                    "Virhi\\LazyRestApiBundle\\Tests\\": "Tests/"
                 }
             },
             "license": [
@@ -1840,7 +1807,81 @@
                 }
             ],
             "description": "generate a Rest Hal APi on top of doctrine orm",
-            "time": "2014-12-22 20:18:30"
+            "time": "2015-01-07 20:31:49"
+        },
+        {
+            "name": "virhi/lazy-rest-api-ui-bundle",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/virhi/LazyRestApiUiBundle.git",
+                "reference": "15fc82604fd812e14ac4293698266f65893409e6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/virhi/LazyRestApiUiBundle/zipball/15fc82604fd812e14ac4293698266f65893409e6",
+                "reference": "15fc82604fd812e14ac4293698266f65893409e6",
+                "shasum": ""
+            },
+            "require": {
+                "virhi/admin-bundle": "0.1.*",
+                "virhi/component": "@dev",
+                "virhi/resthalbundle": "@dev"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "3.7.*"
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-4": {
+                    "Virhi\\LazyRestApiUiBundle\\": "src/Virhi/LazyRestApiUiBundle/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Vincent Rhino",
+                    "email": "vincent.rhino@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "generate a UI on top of Rest Hal APi",
+            "time": "2015-01-08 18:57:56"
+        },
+        {
+            "name": "virhi/paginationbundle",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/virhi/PaginationBundle.git",
+                "reference": "7131f51912d16d6c9d10027e138903632fcdd814"
+            },
+            "require": {
+                "php": "~5.3",
+                "symfony/event-dispatcher": "@dev",
+                "symfony/routing": "@dev"
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-0": {
+                    "Virhi\\Bundle\\PaginationBundle": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Vincent Rhino",
+                    "email": "vincent.rhino@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "manage pagination",
+            "time": "2014-08-27 12:55:48"
         },
         {
             "name": "virhi/resthalbundle",
@@ -1897,45 +1938,6 @@
             ],
             "description": "manage HAL Rest API with Symfony2 http://stateless.co/hal_specification.html",
             "time": "2013-12-27 15:07:51"
-        },
-        {
-            "name": "virhi/ui-rest-api_doctrine-bundle",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/virhi/UiRestApiDoctrineBundle.git",
-                "reference": "6f33755f3a7d0311a3656ae54051e30cf4fa3193"
-            },
-            "require": {
-                "virhi/component": "@dev",
-                "virhi/resthalbundle": "@dev"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "3.7.*"
-            },
-            "type": "symfony-bundle",
-            "autoload": {
-                "psr-4": {
-                    "Virhi\\UiRestApiDoctrineBundle\\": "src/Virhi/UiRestApiDoctrineBundle/"
-                }
-            },
-            "autoload-dev": {
-                "psr-4": {
-                    "Virhi\\UiRestApiDoctrineBundle\\Tests\\": "Tests/"
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Vincent Rhino",
-                    "email": "vincent.rhino@gmail.com",
-                    "role": "Developer"
-                }
-            ],
-            "description": "generate a UI on top of Rest Hal APi",
-            "time": "2014-12-22 20:20:14"
         }
     ],
     "packages-dev": [
@@ -1945,12 +1947,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Behat/Behat.git",
-                "reference": "e585f8a90b366a9a719b2998b9f8ab643735eda7"
+                "reference": "a4fe98e4da5b7df40174e1f6951dbc7811168e03"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Behat/Behat/zipball/e585f8a90b366a9a719b2998b9f8ab643735eda7",
-                "reference": "e585f8a90b366a9a719b2998b9f8ab643735eda7",
+                "url": "https://api.github.com/repos/Behat/Behat/zipball/a4fe98e4da5b7df40174e1f6951dbc7811168e03",
+                "reference": "a4fe98e4da5b7df40174e1f6951dbc7811168e03",
                 "shasum": ""
             },
             "require": {
@@ -1999,7 +2001,7 @@
                 "Behat",
                 "Symfony2"
             ],
-            "time": "2014-04-26 16:56:17"
+            "time": "2015-01-07 09:45:05"
         },
         {
             "name": "behat/common-contexts",
@@ -2994,11 +2996,8 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "virhi/rest-api_doctrine-bundle": 20,
-        "virhi/ui-rest-api_doctrine-bundle": 20,
-        "virhi/adminbundle": 20,
-        "virhi/component": 20,
-        "virhi/resthalbundle": 20,
+        "virhi/lazy-rest-api-bundle": 20,
+        "virhi/lazy-rest-api-ui-bundle": 20,
         "behat/behat": 20,
         "behat/symfony2-extension": 20,
         "behat/mink-extension": 20,

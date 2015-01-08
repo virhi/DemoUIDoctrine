@@ -19,13 +19,9 @@
         "sensio/framework-extra-bundle": "2.3.*",
         "sensio/generator-bundle": "2.3.*",
         "incenteev/composer-parameter-handler": "~2.0",
-        "virhi/rest-api_doctrine-bundle": "@dev",
-        "virhi/ui-rest-api_doctrine-bundle": "@dev",
-        "virhi/adminBundle": "@dev",
-        "virhi/component": "@dev",
-        "misd/guzzle-bundle": "~1.0",
-        "virhi/paginationbundle": "@dev",
-        "virhi/RestHalBundle": "@dev"
+        "virhi/lazy-rest-api-bundle": "@dev",
+        "virhi/lazy-rest-api-ui-bundle": "@dev",
+        "misd/guzzle-bundle": "~1.0"
     },
     "require-dev": {
         "sensio/generator-bundle": "2.3.*",
@@ -73,27 +69,7 @@
         },
         {
             "type": "git",
-            "url": "https://github.com/virhi/Component.git"
-        },
-        {
-            "type": "git",
             "url": "https://github.com/sensiolabs/SensioGeneratorBundle.git"
-        },
-        {
-            "type": "git",
-            "url": "https://github.com/virhi/RestApiDoctrineBundle.git"
-        },
-        {
-            "type": "git",
-            "url": "https://github.com/virhi/UiRestApiDoctrineBundle.git"
-        },
-        {
-            "type": "git",
-            "url": "https://github.com/virhi/adminBundle.git"
-        },
-        {
-            "type": "git",
-            "url": "https://github.com/virhi/PaginationBundle.git"
         }
     ]
 }
